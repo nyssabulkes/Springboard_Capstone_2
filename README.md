@@ -8,11 +8,11 @@ However, actually providing those seats in a balanced, informed manner requires 
 
 <b>Approach:</b>
 
-I build a time-series model, step-by-step, incorporating each component of an ARIMA model separately to demonstrate how the final, full model is the best approach for approximating seats in a class.
+I build a time-series model, step-by-step, explaining the components of an ARIMA model separately to demonstrate how the final, full model is the best approach for approximating seats in a class.
 
 <b>Final Results:</b>
 
 
 <b>Files:</b>
 
-ENGL101_enrollment_2134-2184.xlsx - As an example of an 100-level, entry course, this is the enrollment in ENGL101 between fall 2013 and fall 2018. 
+ENGL101_enrollment_1881-2184.xlsx - As an example of an 100-level, entry course, this is the enrollment in ENGL101 between spring 1988 and fall 2018. 
