@@ -16,3 +16,9 @@ I build a time-series model, step-by-step, explaining the components of an ARIMA
 <b>Files:</b>
 
 ENGL101_enrollment_1881-2184.xlsx - As an example of an 100-level, entry course, this is the enrollment in ENGL101 between spring 1988 and fall 2018. 
+
+Seat Projects.ipynb - A Python notebook integrating Python and R to construct a time-series model of sample enrollment data
+
+Capstone_2_paper.pdf - A written report of the framework, scope, and analyses conducted
+
+Capstone_2_slides.pdf - A slidedeck presentation of the project
